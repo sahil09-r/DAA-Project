@@ -125,7 +125,7 @@ body {
 }
 
 .text-input:focus { border-color: #00d4aa40; }
-.text-input::placeholder { color: #333; }
+.text-input::placeholder { color: #f1ecec; }
 
 /* ===== Buttons ===== */
 .btn {
@@ -204,7 +204,7 @@ body {
 }
 
 .bit-1 { color: #00d4aa; }
-.bit-0 { color: #2a2a45; }
+.bit-0 { color: #e5e5ec; }
 
 /* ===== Code Table ===== */
 .table-scroll { max-height: 200px; overflow-y: auto; }
@@ -216,7 +216,7 @@ body {
 }
 
 .code-table th {
-  color: #555;
+  color: #ac9c9c;
   font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -231,7 +231,7 @@ body {
 .code-table td {
   padding: 0.35rem 0.7rem;
   border-bottom: 1px solid #0f0f1a;
-  color: #aaa;
+  color: #e8dada;
 }
 
 .code-table tbody tr:hover { background: #0f0f1a; }
