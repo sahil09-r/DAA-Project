@@ -236,7 +236,7 @@ body {
 
 .code-table tbody tr:hover { background: #0f0f1a; }
 .code-cell { color: #00d4aa !important; font-size: 0.7rem; }
-.dim { color: #444; }
+.dim { color: #e9d8d8; }
 
 /* ===== Alerts ===== */
 .alert {
